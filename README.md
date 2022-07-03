@@ -1,6 +1,6 @@
 Hello, I'm Kamil!👋
 
-I a programing enthusiast. I value fast learning, achive the goals ..somethins more.. My persistance is my main characteristic. Every problem is my motivation to be better and develop myself. At work I put emphasize on good quality and simple but good solutions of problems.
+I a programing enthusiast. I value fast learning and achive the goals. My persistance is my main characteristic. Every problem is my motivation to be better and develop myself. At work I put emphasize on good quality and simple but good solutions of problems.
 
 
 👉 Enter and check my work.
