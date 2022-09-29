@@ -11,8 +11,9 @@ I a programing enthusiast. I value fast learning and achive the goals. My persis
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
- <a href="https://simple.wikipedia.org/wiki/WordPress" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="javascript" width="40" height="40"/> </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="javascript" width="40" height="40"/> </a>  
+ <a href="https://simple.wikipedia.org/wiki/WordPress" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> </a>  
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c language" width="40" height="40"/> </a>  
 
 </p> 
 
